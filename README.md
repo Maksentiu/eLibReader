@@ -7,7 +7,7 @@
 
 Язык: Kotlin.  
 
-[SRS of program](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/requirements/SRS.md)
+[SRS of program](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/recuirements/SRS.md)
 
 [Events Stream](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/requirements/events-stream.md)
 
