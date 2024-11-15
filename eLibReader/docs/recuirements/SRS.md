@@ -41,10 +41,10 @@ eLib Reader — это мобильное приложение для чтени
 ![Image2](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/PreviewScrean.png)
 - **Экран настроек:** сожершит настройки, например, цветовой палитры,шрифта и т.д..
 
-![Image3](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/ReaderScrean.png)
+![Image3](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/SettingsScrean.png)
 - **Экран чтения книги:** содершит текст книги.
 
-![Image4](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%205.png)
+![Image4](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/ReaderScrean.png)
 - **Экран поиска:** позволяет польхователю искать книги по различным параметрам.
 
 ![Image5](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/SearchScrean.png)
