@@ -11,4 +11,4 @@
 
 [Events Stream](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/requirements/events-stream.md)
 
-[User interface images](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps)
+[User interface images](https://github.com/Maksentiu/eLibReader/tree/main/eLibReader/docs/macaps)
