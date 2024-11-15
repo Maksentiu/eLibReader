@@ -34,20 +34,24 @@ eLib Reader — это мобильное приложение для чтени
 Интерфейс приложения будет включать:
 - **Экран регистрации:** позволяет пользователям зарегистрироваться или войти в аккаунт.
 
-![Image1](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%201.png)
-![Image2](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%202.png)
+![Image1](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/LogInScrean.png)
+
 - **Главный экран:** с доступом к избраным книгам, настройкам прилодения, поиску новых книг для чтения и выходу из приложения.
 
-![Image3](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%203.png)
+![Image2](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/PreviewScrean.png)
 - **Экран настроек:** сожершит настройки, например, цветовой палитры,шрифта и т.д..
 
-![Image4](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%204.png)
+![Image3](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/ReaderScrean.png)
 - **Экран чтения книги:** содершит текст книги.
 
-![Image5](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%205.png)
+![Image4](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%205.png)
 - **Экран поиска:** позволяет польхователю искать книги по различным параметрам.
 
-![Image6](https://github.com/PahanHvesco/SkillCoder/blob/master/docs/mocaps/New%20Mockup%206.png)
+![Image5](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/SearchScrean.png)
+
+- **Экран просмотра книги:** отображает игформацию о книге.
+
+![Image6](https://github.com/Maksentiu/eLibReader/blob/main/eLibReader/docs/macaps/PreviewScrean.png)
 
 **Таблица "действие пользователя - реакция":**
 
